@@ -7,8 +7,9 @@ The Boxbee software platform was created by the following people:
 * Jahanzeb Khan (Creative Director)
 * Elieser Duran (Design)
 
-To purchase a license or to learn more, please email licensing@boxbee.com.
-For answers to frequently asked questions about licensing, click here.
+<h2>Purchase A License</h2>
+
+For answers to frequently asked questions about licensing and to see detailed API docs, [click here](https://api.boxbee.com/licensing).  Use the username: licensing@boxbee.com and password: nycboxdoc .  To purchase a license, please email licensing@boxbee.com
 
 <h1>Overall Architecture</h1>
 
