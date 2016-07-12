@@ -7,7 +7,8 @@ The Boxbee software platform was created by the following people:
 * Jahanzeb Khan (Creative Director)
 * Elieser Duran (Design)
 
-For questions about the source code, please email licensing@boxbee.com
+To purchase a license or to learn more, please email licensing@boxbee.com.
+For answers to frequently asked questions about licensing, click here.
 
 <h1>Overall Architecture</h1>
 
