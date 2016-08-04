@@ -4,6 +4,7 @@ The Boxbee software platform was created by the following people:
 * Angie Yang (Software Engineer)([GitHub](https://github.com/AnGiEYaNg)) ([LinkedIn](https://www.linkedin.com/in/angi3yang))
 * Calvin Choi (Software Engineer) ([GitHub](https://github.com/cschoi3)) ([LinkedIn](https://www.linkedin.com/in/choicalvin))
 * Kareem Kwong (Software Engineer) ([GitHub](https://github.com/kwngo)) ([LinkedIn](https://www.linkedin.com/in/kwngo))
+* Brandon Roberts (Strategy) ([LinkedIn](https://www.linkedin.com/in/brandon-roberts-0137b164))
 * Jahanzeb Khan (Designer) ([Website](http://lowfatgraphics.com))
 * Elieser Duran (Design) ([Behance](https://www.behance.net/eduran03))
 
