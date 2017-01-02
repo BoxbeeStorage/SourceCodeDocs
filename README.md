@@ -8,9 +8,6 @@ The Boxbee software platform was created by the following people:
 * Jahanzeb Khan (Designer) ([Website](http://lowfatgraphics.com))
 * Elieser Duran (Design) ([Behance](https://www.behance.net/eduran03))
 
-<h1>Purchase A License</h1>
-
-For more information or to purchase a license, please email licensing@boxbee.com
 
 <h1>ARCHITECTURE</h1>
 
