@@ -14,7 +14,7 @@ For more information or to purchase a license, please email licensing@boxbee.com
 
 <h1>ARCHITECTURE</h1>
 
-![Boxbee Overall Architecture](https://dl.dropboxusercontent.com/s/7ne8dz7ejispen1/Screenshot%202016-07-10%2012.08.26.png)
+![Boxbee Overall Architecture](https://drive.google.com/file/d/0BxBqpHP7Y276ZHhUZUhweWZHak0/view?usp=sharing)
 
 #Overview 
 
